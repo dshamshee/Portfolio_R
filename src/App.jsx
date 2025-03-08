@@ -1,11 +1,11 @@
-import { Footer } from "./components/footer/Footer"
-import { Navbar } from "./components/navbar/navbar"
-import { About } from "./components/Sections/About"
-import { Contact } from "./components/Sections/Contact"
-import { Hero } from "./components/Sections/Hero"
-import { Projects } from "./components/Sections/Projects"
-import { Resume } from "./components/Sections/Resume"
-import { SkillCard } from "./components/Sections/SkillCard"
+import { Footer } from "./components/footer/Footer.jsx"
+import { Navbar } from "./components/navbar/navbar.jsx"
+import { About } from "./components/Sections/About.jsx"
+import { Contact } from "./components/Sections/Contact.jsx"
+import { Hero } from "./components/Sections/Hero.jsx"
+import { Projects } from "./components/Sections/Projects.jsx"
+import { Resume } from "./components/Sections/Resume.jsx"
+import { SkillCard } from "./components/Sections/SkillCard.jsx"
 
 function App() {
   return (
