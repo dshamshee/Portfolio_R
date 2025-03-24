@@ -1,11 +1,12 @@
-import { Footer } from "./components/footer/Footer.jsx"
-import { Navbar } from "./components/navbar/navbar.jsx"
-import { About } from "./components/Sections/About.jsx"
-import { Contact } from "./components/Sections/Contact.jsx"
-import { Hero } from "./components/Sections/Hero.jsx"
-import { Projects } from "./components/Sections/Projects.jsx"
-import { Resume } from "./components/Sections/Resume.jsx"
-import { SkillCard } from "./components/Sections/SkillCard.jsx"
+import {Navbar} from './components/navbar/Navbar.jsx'
+import {Footer} from './components/footer/Footer.jsx'
+import {Hero} from './components/Sections/Hero.jsx'
+import {About} from './components/Sections/About.jsx'
+import {SkillCard} from './components/Sections/SkillCard.jsx'
+import {Resume} from './components/Sections/Resume.jsx'
+import {Projects} from './components/Sections/Projects.jsx'
+import {Contact} from './components/Sections/Contact.jsx'
+import { Test } from './components/Test.jsx'
 
 function App() {
   return (
@@ -30,7 +31,7 @@ function App() {
         <Footer />
       </div>
       
-
+      {/* <Test /> */}
     </section>
   )
 }

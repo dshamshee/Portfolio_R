@@ -10,14 +10,14 @@ export const About = () => {
                         <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum qui dolorem</p>
                     </div>
 
-                    <div className="detailss flex gap-8 bg-purple-40 mt-14 p-2">
+                    <div className="detailss flex gap-8 mt-14 p-2">
 
-                        <div className="imag bg-purple-400 rounded w-[500px] h-[580px] bg-[url(./images/Danish.jpeg)] bg-cover bg-no-repeat">
-                            {/* <h1>Image</h1> */}
-                            {/* <img height={200} src="./images/Danish.jpg" alt="" /> */}
+                        <div className="imag">
+                        {/* bg-[url(./images/Danish.jpeg)] bg-cover bg-no-repeat */}
+                            <img className="rounded-lg w-[500px] shadow-lg" src="./images/Danish.jpeg" alt="" />
                         </div>
 
-                        <div className="contentt w-[700px]">
+                        <div className="contentt w-[650px]">
                             <h1 className="text-start font-bold text-lg text-orange-400 ">About Me</h1>
                             <h1 className="text-start mt-4 text-2xl font-bold">Cloud Architect & Web Developer</h1>
                             <p className="text-start mt-4">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt</p>

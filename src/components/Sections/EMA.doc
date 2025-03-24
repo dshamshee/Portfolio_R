@@ -1,0 +1,1573 @@
+Sure! Let's go through each question one by one, solve them, and provide detailed explanations.
+
+### **Question 1:**
+**A can do a piece of work in 40 days and B can do the same work in 60 days. Working together, in how many days will they complete the work?**
+
+**Solution:**
+- A's work rate = \( \frac{1}{40} \) (work per day)
+- B's work rate = \( \frac{1}{60} \) (work per day)
+- Combined work rate = \( \frac{1}{40} + \frac{1}{60} = \frac{3 + 2}{120} = \frac{5}{120} = \frac{1}{24} \) (work per day)
+- Time taken together = \( \frac{1}{\frac{1}{24}} = 24 \) days
+
+**Answer:** They will complete the work together in **24 days**.
+
+---
+
+### **Question 2:**
+**Working together, Rajeev and Vikram can complete a piece of work in 48 days. Rajeev can complete the work alone in 64 days. Both of them worked together for 30 days and then Rajeev left. How long will Vikram take to complete the remaining work?**
+
+**Solution:**
+- Combined work rate of Rajeev and Vikram = \( \frac{1}{48} \) (work per day)
+- Rajeev's work rate = \( \frac{1}{64} \) (work per day)
+- Vikram's work rate = \( \frac{1}{48} - \frac{1}{64} = \frac{4 - 3}{192} = \frac{1}{192} \) (work per day)
+- Work done in 30 days together = \( 30 \times \frac{1}{48} = \frac{30}{48} = \frac{5}{8} \)
+- Remaining work = \( 1 - \frac{5}{8} = \frac{3}{8} \)
+- Time taken by Vikram to complete the remaining work = \( \frac{\frac{3}{8}}{\frac{1}{192}} = \frac{3}{8} \times 192 = 72 \) days
+
+**Answer:** Vikram will take **72 days** to complete the remaining work.
+
+---
+
+### **Question 3:**
+**A can do a piece of work in 10 days, B in 12 days, and C in 15 days. They all start the work together, but A leaves the work after 2 days and B leaves 3 days before the work is completed. How many days did the work last?**
+
+**Solution:**
+- Let the total work be 1 unit.
+- Work done by A, B, and C in 2 days = \( 2 \times \left( \frac{1}{10} + \frac{1}{12} + \frac{1}{15} \right) = 2 \times \left( \frac{6 + 5 + 4}{60} \right) = 2 \times \frac{15}{60} = \frac{1}{2} \)
+- Remaining work = \( 1 - \frac{1}{2} = \frac{1}{2} \)
+- Let the total time taken be \( T \) days.
+- A leaves after 2 days, so A works for 2 days.
+- B leaves 3 days before completion, so B works for \( T - 3 \) days.
+- C works for \( T \) days.
+- Work done by B and C after A leaves:
+  - B works for \( T - 3 - 2 = T - 5 \) days.
+  - C works for \( T - 2 \) days.
+- Total work done:
+  \[
+  \frac{1}{10} \times 2 + \frac{1}{12} \times (T - 3) + \frac{1}{15} \times T = 1
+  \]
+  Simplifying:
+  \[
+  \frac{1}{5} + \frac{T - 3}{12} + \frac{T}{15} = 1
+  \]
+  Multiply through by 60 to eliminate denominators:
+  \[
+  12 + 5(T - 3) + 4T = 60
+  \]
+  \[
+  12 + 5T - 15 + 4T = 60
+  \]
+  \[
+  9T - 3 = 60
+  \]
+  \[
+  9T = 63 \implies T = 7
+  \]
+
+**Answer:** The work lasted for **7 days**.
+
+---
+
+### **Question 4:**
+**Two taps A and B can fill a cistern in 42 and 56 minutes respectively. If both the taps are opened together, then find the time taken to fill the cistern.**
+
+**Solution:**
+- Tap A's filling rate = \( \frac{1}{42} \) (cistern per minute)
+- Tap B's filling rate = \( \frac{1}{56} \) (cistern per minute)
+- Combined filling rate = \( \frac{1}{42} + \frac{1}{56} = \frac{4 + 3}{168} = \frac{7}{168} = \frac{1}{24} \) (cistern per minute)
+- Time taken to fill the cistern = \( \frac{1}{\frac{1}{24}} = 24 \) minutes
+
+**Answer:** The cistern will be filled in **24 minutes**.
+
+---
+
+### **Question 5:**
+**Two taps A and B can fill a cistern in 10 and 15 minutes respectively. Both the taps are opened together but at the end of 3 minutes, tap B is turned off. In how much time will the cistern be filled?**
+
+**Solution:**
+- Tap A's filling rate = \( \frac{1}{10} \) (cistern per minute)
+- Tap B's filling rate = \( \frac{1}{15} \) (cistern per minute)
+- Combined filling rate for 3 minutes = \( 3 \times \left( \frac{1}{10} + \frac{1}{15} \right) = 3 \times \left( \frac{3 + 2}{30} \right) = 3 \times \frac{5}{30} = \frac{1}{2} \)
+- Remaining cistern to be filled = \( 1 - \frac{1}{2} = \frac{1}{2} \)
+- Time taken by Tap A to fill the remaining \( \frac{1}{2} \) cistern = \( \frac{\frac{1}{2}}{\frac{1}{10}} = 5 \) minutes
+- Total time = 3 minutes (both taps) + 5 minutes (Tap A alone) = **8 minutes**
+
+**Answer:** The cistern will be filled in **8 minutes**.
+
+---
+
+### **Question 6:**
+**A cistern is fitted with three taps, namely P, Q, and R. P and Q can fill a cistern in 10 and 15 minutes respectively, whereas R (emptying tap fitted at the bottom of the cistern) can empty it in 12 minutes. If all three pipes are kept open, in how much time will the cistern be filled?**
+
+**Solution:**
+- Tap P's filling rate = \( \frac{1}{10} \) (cistern per minute)
+- Tap Q's filling rate = \( \frac{1}{15} \) (cistern per minute)
+- Tap R's emptying rate = \( \frac{1}{12} \) (cistern per minute)
+- Net filling rate when all three taps are open:
+  \[
+  \frac{1}{10} + \frac{1}{15} - \frac{1}{12} = \frac{6 + 4 - 5}{60} = \frac{5}{60} = \frac{1}{12} \text{ (cistern per minute)}
+  \]
+- Time taken to fill the cistern = \( \frac{1}{\frac{1}{12}} = 12 \) minutes
+
+**Answer:** The cistern will be filled in **12 minutes**.
+
+---
+
+### **Question 7:**
+**A cistern generally takes 20 minutes to be filled by a pipe, but due to a leak, it takes 10 extra minutes to get filled. Find the time in which the leak alone can empty the cistern filled with water.**
+
+**Solution:**
+- Pipe's filling rate = \( \frac{1}{20} \) (cistern per minute)
+- With the leak, the cistern takes 30 minutes to fill, so the combined rate is \( \frac{1}{30} \) (cistern per minute)
+- Let the leak's emptying rate be \( \frac{1}{L} \) (cistern per minute)
+- Net filling rate with the leak:
+  \[
+  \frac{1}{20} - \frac{1}{L} = \frac{1}{30}
+  \]
+  Solving for \( L \):
+  \[
+  \frac{1}{20} - \frac{1}{30} = \frac{1}{L}
+  \]
+  \[
+  \frac{3 - 2}{60} = \frac{1}{L} \implies \frac{1}{60} = \frac{1}{L} \implies L = 60
+  \]
+
+**Answer:** The leak alone can empty the cistern in **60 minutes**.
+
+---
+
+### **Question 8:**
+**12 men can dig a well in 15 days, working 8 hours a day. How many days will 18 men require to dig a similar well working for 5 hours a day?**
+
+**Solution:**
+- Total work = \( 12 \text{ men} \times 15 \text{ days} \times 8 \text{ hours} = 1440 \text{ man-hours} \)
+- Let the number of days required by 18 men working 5 hours a day be \( D \).
+- Total work done by 18 men = \( 18 \times D \times 5 = 90D \)
+- Equating the work:
+  \[
+  90D = 1440 \implies D = \frac{1440}{90} = 16
+  \]
+
+**Answer:** 18 men will require **16 days** to dig the well.
+
+---
+
+### **Question 9:**
+**30 workers can make 24 tables in 21 days, working 8 hours a day. If 35 workers want to make 18 such tables in 12 days, how many hours should they work every day?**
+
+**Solution:**
+- Total work = \( 30 \text{ workers} \times 21 \text{ days} \times 8 \text{ hours} = 5040 \text{ worker-hours} \)
+- Work required to make 24 tables = 5040 worker-hours
+- Work required to make 1 table = \( \frac{5040}{24} = 210 \) worker-hours
+- Work required to make 18 tables = \( 18 \times 210 = 3780 \) worker-hours
+- Let the number of hours per day be \( H \).
+- Total work done by 35 workers in 12 days = \( 35 \times 12 \times H = 420H \)
+- Equating the work:
+  \[
+  420H = 3780 \implies H = \frac{3780}{420} = 9
+  \]
+
+**Answer:** They should work **9 hours** every day.
+
+---
+
+### **Question 10:**
+**If 9 friends can eat 9 ice creams in 9 minutes, how long will 15 friends take to eat 15 such ice creams?**
+
+**Solution:**
+- 9 friends eat 9 ice creams in 9 minutes, so each friend eats 1 ice cream in 9 minutes.
+- 15 friends will eat 15 ice creams in the same time, as each friend still takes 9 minutes to eat 1 ice cream.
+
+**Answer:** 15 friends will take **9 minutes** to eat 15 ice creams.
+
+---
+
+### **Question 11:**
+**A mess has provisions for 360 men for 70 days. If the number of men increases by 90, for how many days will the provisions last?**
+
+**Solution:**
+- Total provisions = \( 360 \text{ men} \times 70 \text{ days} = 25200 \text{ man-days} \)
+- New number of men = \( 360 + 90 = 450 \) men
+- Let the number of days the provisions will last be \( D \).
+- Total provisions = \( 450 \times D \)
+- Equating the provisions:
+  \[
+  450D = 25200 \implies D = \frac{25200}{450} = 56
+  \]
+
+**Answer:** The provisions will last for **56 days**.
+
+---
+
+### **Question 12:**
+**12 boys and 16 girls can do a piece of work in 10 days while 13 boys and 24 girls can do the same work in 8 days. Find the time taken by 15 boys and 20 girls to do the same work.**
+
+**Solution:**
+- Let the work done by 1 boy in 1 day be \( B \) and by 1 girl in 1 day be \( G \).
+- From the first scenario:
+  \[
+  12B + 16G = \frac{1}{10}
+  \]
+- From the second scenario:
+  \[
+  13B + 24G = \frac{1}{8}
+  \]
+- Solving these two equations:
+  - Multiply the first equation by 3 and the second by 2:
+    \[
+    36B + 48G = \frac{3}{10}
+    \]
+    \[
+    26B + 48G = \frac{2}{8} = \frac{1}{4}
+    \]
+  - Subtract the second equation from the first:
+    \[
+    10B = \frac{3}{10} - \frac{1}{4} = \frac{6 - 5}{20} = \frac{1}{20}
+    \]
+    \[
+    B = \frac{1}{200}
+    \]
+  - Substitute \( B \) back into the first equation:
+    \[
+    12 \times \frac{1}{200} + 16G = \frac{1}{10}
+    \]
+    \[
+    \frac{12}{200} + 16G = \frac{1}{10}
+    \]
+    \[
+    16G = \frac{1}{10} - \frac{12}{200} = \frac{20 - 12}{200} = \frac{8}{200} = \frac{1}{25}
+    \]
+    \[
+    G = \frac{1}{400}
+    \]
+- Now, for 15 boys and 20 girls:
+  \[
+  15B + 20G = 15 \times \frac{1}{200} + 20 \times \frac{1}{400} = \frac{15}{200} + \frac{20}{400} = \frac{30 + 20}{400} = \frac{50}{400} = \frac{1}{8}
+  \]
+- Time taken = \( \frac{1}{\frac{1}{8}} = 8 \) days
+
+**Answer:** 15 boys and 20 girls will take **8 days** to complete the work.
+
+---
+
+### **Question 13:**
+**A can complete a piece of work in 30 days. B can complete the same work in 40 days. If they complete the work together and earn Rs. 350 for the job, find A’s share.**
+
+**Solution:**
+- A's work rate = \( \frac{1}{30} \) (work per day)
+- B's work rate = \( \frac{1}{40} \) (work per day)
+- Combined work rate = \( \frac{1}{30} + \frac{1}{40} = \frac{4 + 3}{120} = \frac{7}{120} \) (work per day)
+- Time taken together = \( \frac{1}{\frac{7}{120}} = \frac{120}{7} \) days
+- A's share of work = \( \frac{1}{30} \times \frac{120}{7} = \frac{4}{7} \)
+- A's share of earnings = \( \frac{4}{7} \times 350 = 200 \)
+
+**Answer:** A’s share is **Rs. 200**.
+
+---
+
+### **Question 14:**
+**A can do a piece of work in 25 days and B can do it in 20 days. They work together for 5 days and then A quits. B completes the remaining work. If they are paid Rs. 750 for the job, find B’s share.**
+
+**Solution:**
+- A's work rate = \( \frac{1}{25} \) (work per day)
+- B's work rate = \( \frac{1}{20} \) (work per day)
+- Combined work rate = \( \frac{1}{25} + \frac{1}{20} = \frac{4 + 5}{100} = \frac{9}{100} \) (work per day)
+- Work done in 5 days together = \( 5 \times \frac{9}{100} = \frac{45}{100} = \frac{9}{20} \)
+- Remaining work = \( 1 - \frac{9}{20} = \frac{11}{20} \)
+- Time taken by B to complete the remaining work = \( \frac{\frac{11}{20}}{\frac{1}{20}} = 11 \) days
+- Total work done by B = \( 5 \times \frac{1}{20} + 11 \times \frac{1}{20} = \frac{16}{20} = \frac{4}{5} \)
+- B's share of earnings = \( \frac{4}{5} \times 750 = 600 \)
+
+**Answer:** B’s share is **Rs. 600**.
+
+---
+
+### **Question 15:**
+**A and B can do a work in 20 and 30 days respectively. If both of them working along with C can finish the work in 8 days, then find C’s share in the total wage of Rs. 1200.**
+
+**Solution:**
+- A's work rate = \( \frac{1}{20} \) (work per day)
+- B's work rate = \( \frac{1}{30} \) (work per day)
+- Combined work rate of A, B, and C = \( \frac{1}{8} \) (work per day)
+- C's work rate = \( \frac{1}{8} - \left( \frac{1}{20} + \frac{1}{30} \right) = \frac{1}{8} - \frac{5}{60} = \frac{1}{8} - \frac{1}{12} = \frac{3 - 2}{24} = \frac{1}{24} \) (work per day)
+- Total work done by C = \( 8 \times \frac{1}{24} = \frac{1}{3} \)
+- C's share of earnings = \( \frac{1}{3} \times 1200 = 400 \)
+
+**Answer:** C’s share is **Rs. 400**.
+
+---
+
+### **Question 16:**
+**In the question discussed earlier, “12 boys and 16 girls can do a piece of work in 10 days while 13 boys and 24 girls can do the same work in 8 days. Find the time taken by 15 boys and 20 girls to do the same work.”, if the group is paid Rs. 40,000 for the task, what will be the wage paid to each boy and girl per day?**
+
+**Solution:**
+- From the earlier solution, we know that 15 boys and 20 girls take 8 days to complete the work.
+- Total wages = Rs. 40,000
+- Total man-days = \( 15 \text{ boys} \times 8 \text{ days} + 20 \text{ girls} \times 8 \text{ days} = 120 + 160 = 280 \) man-days
+- Wage per man-day = \( \frac{40000}{280} = \frac{1000}{7} \approx 142.86 \)
+- Wage per boy per day = Rs. 142.86
+- Wage per girl per day = Rs. 142.86
+
+**Answer:** Each boy and girl will be paid approximately **Rs. 142.86** per day.
+
+---
+
+### **Question 17:**
+**A certain number of men can finish a job in 90 days. If there were 16 more men, the work could have been completed 18 days earlier. How many men were there initially?**
+
+**Solution:**
+- Let the initial number of men be \( M \).
+- Total work = \( M \times 90 \) man-days
+- With 16 more men, the number of men becomes \( M + 16 \), and the work is completed in \( 90 - 18 = 72 \) days.
+- Total work = \( (M + 16) \times 72 \) man-days
+- Equating the work:
+  \[
+  M \times 90 = (M + 16) \times 72
+  \]
+  \[
+  90M = 72M + 1152
+  \]
+  \[
+  18M = 1152 \implies M = \frac{1152}{18} = 64
+  \]
+
+**Answer:** There were initially **64 men**.
+
+---
+
+### **Question 18:**
+**12 men can build a wall 100 metres long, 3 metres high, and 0.5 metres thick in 25 days. In how many days will 20 men build a wall 60 metres long, 4 metres high, and 0.25 metres thick?**
+
+**Solution:**
+- Volume of the first wall = \( 100 \times 3 \times 0.5 = 150 \) cubic metres
+- Volume of the second wall = \( 60 \times 4 \times 0.25 = 60 \) cubic metres
+- Work done by 12 men in 25 days = 150 cubic metres
+- Work done by 1 man in 1 day = \( \frac{150}{12 \times 25} = \frac{150}{300} = 0.5 \) cubic metres
+- Total work required for the second wall = 60 cubic metres
+- Let the number of days required by 20 men be \( D \).
+- Total work done by 20 men in \( D \) days = \( 20 \times D \times 0.5 = 10D \)
+- Equating the work:
+  \[
+  10D = 60 \implies D = 6
+  \]
+
+**Answer:** 20 men will take **6 days** to build the wall.
+
+---
+
+### **Question 19:**
+**A man works twice as fast as a woman. A woman works twice as fast as a child. If 16 men can complete a job in 12 days, then how many days would be required for 32 women and 64 children together to complete the same job?**
+
+**Solution:**
+- Let the work rate of a child be \( C \).
+- Work rate of a woman = \( 2C \)
+- Work rate of a man = \( 2 \times 2C = 4C \)
+- Total work = \( 16 \text{ men} \times 12 \text{ days} \times 4C = 768C \)
+- Work rate of 32 women and 64 children:
+  \[
+  32 \times 2C + 64 \times C = 64C + 64C = 128C
+  \]
+- Time taken = \( \frac{768C}{128C} = 6 \) days
+
+**Answer:** 32 women and 64 children will take **6 days** to complete the job.
+
+---
+
+### **Question 20:**
+**To complete a task in 45 days, a contractor employs 45 people. Upon reviewing the work after 30 days, he notices that only half of the task is complete. In order to complete the work in 45 days, how many extra people must he employ now?**
+
+**Solution:**
+- Total work = \( 45 \text{ people} \times 45 \text{ days} = 2025 \) man-days
+- Work done in 30 days = \( 45 \times 30 = 1350 \) man-days
+- Remaining work = \( 2025 - 1350 = 675 \) man-days
+- Remaining time = \( 45 - 30 = 15 \) days
+- Let the number of extra people required be \( x \).
+- Total people now = \( 45 + x \)
+- Work done in 15 days = \( (45 + x) \times 15 \)
+- Equating the work:
+  \[
+  (45 + x) \times 15 = 675
+  \]
+  \[
+  45 + x = \frac{675}{15} = 45 \implies x = 0
+  \]
+
+**Answer:** No extra people are needed. The contractor can complete the work with the existing 45 people.
+
+---
+
+### **Question 21:**
+**To complete a task, two men work on the first day, three men on the second day, and so on, till it gets completed. If the same work can be completed by 9 men working for 15 days, in how many days will the work be completed in the earlier case?**
+
+**Solution:**
+- Total work = \( 9 \text{ men} \times 15 \text{ days} = 135 \) man-days
+- Let the work be completed in \( n \) days.
+- Total work done in \( n \) days:
+  \[
+  2 + 3 + 4 + \dots + (n + 1) = \frac{n(n + 3)}{2}
+  \]
+- Equating the work:
+  \[
+  \frac{n(n + 3)}{2} = 135
+  \]
+  \[
+  n(n + 3) = 270
+  \]
+  \[
+  n^2 + 3n - 270 = 0
+  \]
+  Solving the quadratic equation:
+  \[
+  n = \frac{-3 \pm \sqrt{9 + 1080}}{2} = \frac{-3 \pm \sqrt{1089}}{2} = \frac{-3 \pm 33}{2}
+  \]
+  \[
+  n = \frac{30}{2} = 15 \text{ or } n = \frac{-36}{2} = -18 \text{ (not possible)}
+  \]
+
+**Answer:** The work will be completed in **15 days**.
+
+---
+
+### **Question 22:**
+**4 men and 4 women can build a room in 5 days. 7 men and 2 women will take 4 days to complete the same piece of work. How many days will 6 men and 1 woman take to complete twice the job?**
+
+**Solution:**
+- Let the work rate of a man be \( M \) and a woman be \( W \).
+- From the first scenario:
+  \[
+  4M + 4W = \frac{1}{5}
+  \]
+- From the second scenario:
+  \[
+  7M + 2W = \frac{1}{4}
+  \]
+- Solving these two equations:
+  - Multiply the first equation by 7 and the second by 4:
+    \[
+    28M + 28W = \frac{7}{5}
+    \]
+    \[
+    28M + 8W = 1
+    \]
+  - Subtract the second equation from the first:
+    \[
+    20W = \frac{7}{5} - 1 = \frac{2}{5}
+    \]
+    \[
+    W = \frac{2}{100} = \frac{1}{50}
+    \]
+  - Substitute \( W \) back into the first equation:
+    \[
+    4M + 4 \times \frac{1}{50} = \frac{1}{5}
+    \]
+    \[
+    4M + \frac{4}{50} = \frac{1}{5}
+    \]
+    \[
+    4M = \frac{1}{5} - \frac{4}{50} = \frac{10 - 4}{50} = \frac{6}{50} = \frac{3}{25}
+    \]
+    \[
+    M = \frac{3}{100}
+    \]
+- Now, for 6 men and 1 woman:
+  \[
+  6M + W = 6 \times \frac{3}{100} + \frac{1}{50} = \frac{18}{100} + \frac{2}{100} = \frac{20}{100} = \frac{1}{5}
+  \]
+- Time taken to complete twice the job = \( \frac{2}{\frac{1}{5}} = 10 \) days
+
+**Answer:** 6 men and 1 woman will take **10 days** to complete twice the job.
+
+---
+
+### **Question 23:**
+**If 3 men or 4 women can reap a field in 43 days, how long will 7 men and 5 women take to reap it?**
+
+**Solution:**
+- Work rate of 3 men = \( \frac{1}{43} \) (field per day)
+- Work rate of 1 man = \( \frac{1}{129} \) (field per day)
+- Work rate of 4 women = \( \frac{1}{43} \) (field per day)
+- Work rate of 1 woman = \( \frac{1}{172} \) (field per day)
+- Combined work rate of 7 men and 5 women:
+  \[
+  7 \times \frac{1}{129} + 5 \times \frac{1}{172} = \frac{7}{129} + \frac{5}{172}
+  \]
+  \[
+  = \frac{7 \times 4 + 5 \times 3}{516} = \frac{28 + 15}{516} = \frac{43}{516} = \frac{1}{12}
+  \]
+- Time taken = \( \frac{1}{\frac{1}{12}} = 12 \) days
+
+**Answer:** 7 men and 5 women will take **12 days** to reap the field.
+
+---
+
+### **Question 24:**
+**A is thrice as good as a workman B. If together they can complete a task in 12 days, in how many days can A alone complete it?**
+
+**Solution:**
+- Let B's work rate be \( B \), then A's work rate is \( 3B \).
+- Combined work rate = \( 3B + B = 4B \)
+- Total work = \( 4B \times 12 = 48B \)
+- Time taken by A alone = \( \frac{48B}{3B} = 16 \) days
+
+**Answer:** A alone can complete the task in **16 days**.
+
+---
+
+### **Question 25:**
+**Rajeev takes one hour to arrange 96 books. Sanjeev takes one and a half hours to arrange the same number of books. Working together, how many hours will they take to arrange 4000 books?**
+
+**Solution:**
+- Rajeev's work rate = \( \frac{96}{1} = 96 \) books per hour
+- Sanjeev's work rate = \( \frac{96}{1.5} = 64 \) books per hour
+- Combined work rate = \( 96 + 64 = 160 \) books per hour
+- Time taken to arrange 4000 books = \( \frac{4000}{160} = 25 \) hours
+
+**Answer:** They will take **25 hours** to arrange 4000 books.
+
+---
+
+### **Question 26:**
+**Anil, Benny, and Cyril work for a shipbuilding company. Anil can build a ship in 10 days while Benny can build the same ship in 8 days. Working together, all three of them can build a similar ship in 4 days. In how many days can Cyril alone build it?**
+
+**Solution:**
+- Anil's work rate = \( \frac{1}{10} \) (ship per day)
+- Benny's work rate = \( \frac{1}{8} \) (ship per day)
+- Combined work rate of Anil, Benny, and Cyril = \( \frac{1}{4} \) (ship per day)
+- Cyril's work rate = \( \frac{1}{4} - \left( \frac{1}{10} + \frac{1}{8} \right) = \frac{1}{4} - \frac{9}{40} = \frac{10 - 9}{40} = \frac{1}{40} \) (ship per day)
+- Time taken by Cyril alone = \( \frac{1}{\frac{1}{40}} = 40 \) days
+
+**Answer:** Cyril alone can build the ship in **40 days**.
+
+---
+
+### **Question 27:**
+**A and B can do a piece of work in 30 days. B and C can do it in 37.5 days. C and A can do it in 50 days. In how many days will they finish, if A, B, and C work together?**
+
+**Solution:**
+- Let the work rates of A, B, and C be \( A \), \( B \), and \( C \) respectively.
+- From the given information:
+  \[
+  A + B = \frac{1}{30}
+  \]
+  \[
+  B + C = \frac{1}{37.5} = \frac{2}{75}
+  \]
+  \[
+  C + A = \frac{1}{50}
+  \]
+- Adding all three equations:
+  \[
+  2(A + B + C) = \frac{1}{30} + \frac{2}{75} + \frac{1}{50} = \frac{5 + 4 + 3}{150} = \frac{12}{150} = \frac{2}{25}
+  \]
+  \[
+  A + B + C = \frac{1}{25}
+  \]
+- Time taken by A, B, and C together = \( \frac{1}{\frac{1}{25}} = 25 \) days
+
+**Answer:** A, B, and C will finish the work together in **25 days**.
+
+---
+
+### **Question 28:**
+**A, working alone, can make a cabinet in 12 days. B will take 6 days more than A to do the same work. A and B, along with the help of C, complete it in 5 days. If they are paid Rs. 9000 for the job, find C’s share.**
+
+**Solution:**
+- A's work rate = \( \frac{1}{12} \) (cabinet per day)
+- B's work rate = \( \frac{1}{18} \) (cabinet per day)
+- Combined work rate of A, B, and C = \( \frac{1}{5} \) (cabinet per day)
+- C's work rate = \( \frac{1}{5} - \left( \frac{1}{12} + \frac{1}{18} \right) = \frac{1}{5} - \frac{5}{36} = \frac{36 - 25}{180} = \frac{11}{180} \) (cabinet per day)
+- Total work done by C = \( 5 \times \frac{11}{180} = \frac{55}{180} = \frac{11}{36} \)
+- C's share of earnings = \( \frac{11}{36} \times 9000 = 2750 \)
+
+**Answer:** C’s share is **Rs. 2750**.
+
+---
+
+### **Question 29:**
+**Two taps X and Y can fill a cistern in 32 and 40 minutes respectively. Both the taps are opened into the empty cistern, and after some time, tap X is closed. Tap Y alone fills the remaining portion of the cistern. If it took 25 minutes to fill the tank, for how much time was tap X kept open?**
+
+**Solution:**
+- Let tap X be open for \( t \) minutes.
+- Tap X's filling rate = \( \frac{1}{32} \) (cistern per minute)
+- Tap Y's filling rate = \( \frac{1}{40} \) (cistern per minute)
+- Work done by tap X in \( t \) minutes = \( \frac{t}{32} \)
+- Work done by tap Y in 25 minutes = \( \frac{25}{40} = \frac{5}{8} \)
+- Total work done:
+  \[
+  \frac{t}{32} + \frac{5}{8} = 1
+  \]
+  \[
+  \frac{t}{32} = 1 - \frac{5}{8} = \frac{3}{8}
+  \]
+  \[
+  t = \frac{3}{8} \times 32 = 12
+  \]
+
+**Answer:** Tap X was kept open for **12 minutes**.
+
+---
+
+### **Question 30:**
+**Taps X and Y can fill a tank in 30 and 40 minutes respectively. Tap Z can empty the filled tank in 60 minutes. If all three taps are kept open for one minute each, how much time will the taps take to fill the tank?**
+
+**Solution:**
+- Tap X's filling rate = \( \frac{1}{30} \) (tank per minute)
+- Tap Y's filling rate = \( \frac{1}{40} \) (tank per minute)
+- Tap Z's emptying rate = \( \frac{1}{60} \) (tank per minute)
+- Net filling rate when all three taps are open:
+  \[
+  \frac{1}{30} + \frac{1}{40} - \frac{1}{60} = \frac{4 + 3 - 2}{120} = \frac{5}{120} = \frac{1}{24} \text{ (tank per minute)}
+  \]
+- Time taken to fill the tank = \( \frac{1}{\frac{1}{24}} = 24 \) minutes
+
+**Answer:** The tank will be filled in **24 minutes**.
+
+---
+
+### **Question 31:**
+**A booster pump can be used for filling as well as emptying a tank of capacity 2400 m³. The emptying capacity of the pump is 10 m³ per minute higher than its filling capacity, and the pump needs 8 minutes less to empty the tank than it needs to fill it. What is the filling capacity of the tank?**
+
+**Solution:**
+- Let the filling capacity be \( F \) m³ per minute.
+- Emptying capacity = \( F + 10 \) m³ per minute
+- Time to fill the tank = \( \frac{2400}{F} \) minutes
+- Time to empty the tank = \( \frac{2400}{F + 10} \) minutes
+- According to the problem:
+  \[
+  \frac{2400}{F} - \frac{2400}{F + 10} = 8
+  \]
+  \[
+  2400 \left( \frac{1}{F} - \frac{1}{F + 10} \right) = 8
+  \]
+  \[
+  2400 \left( \frac{F + 10 - F}{F(F + 10)} \right) = 8
+  \]
+  \[
+  2400 \left( \frac{10}{F(F + 10)} \right) = 8
+  \]
+  \[
+  \frac{24000}{F(F + 10)} = 8
+  \]
+  \[
+  F(F + 10) = \frac{24000}{8} = 3000
+  \]
+  \[
+  F^2 + 10F - 3000 = 0
+  \]
+  Solving the quadratic equation:
+  \[
+  F = \frac{-10 \pm \sqrt{100 + 12000}}{2} = \frac{-10 \pm \sqrt{12100}}{2} = \frac{-10 \pm 110}{2}
+  \]
+  \[
+  F = \frac{100}{2} = 50 \text{ or } F = \frac{-120}{2} = -60 \text{ (not possible)}
+  \]
+
+**Answer:** The filling capacity of the tank is **50 m³ per minute**.
+
+---
+
+### **Question 32:**
+**A tap requires 18 hours to fill a tank. On a particular day, it was noticed that 18 hours after the tap was turned open, the tank was not filled due to a leak at the bottom of the tank. The leak was plugged, and it took the tap 3 more hours to fill the tank. Working alone, how long will the leak take to empty the tank?**
+
+**Solution:**
+- Tap's filling rate = \( \frac{1}{18} \) (tank per hour)
+- Let the leak's emptying rate be \( L \) (tank per hour).
+- With the leak, the effective filling rate = \( \frac{1}{18} - L \)
+- Time taken to fill the tank with the leak = 18 hours
+- Work done in 18 hours:
+  \[
+  18 \times \left( \frac{1}{18} - L \right) = 1 - 18L
+  \]
+- After plugging the leak, the tap takes 3 more hours to fill the remaining \( 18L \) of the tank.
+- Work done in 3 hours:
+  \[
+  3 \times \frac{1}{18} = \frac{1}{6}
+  \]
+- Equating the work:
+  \[
+  1 - 18L = \frac{5}{6}
+  \]
+  \[
+  18L = \frac{1}{6} \implies L = \frac{1}{108}
+  \]
+- Time taken by the leak alone to empty the tank = \( \frac{1}{\frac{1}{108}} = 108 \) hours
+
+**Answer:** The leak alone will take **108 hours** to empty the tank.
+
+---
+
+### **Question 33:**
+**National Publishing Company has numerous typists working with them. All of them can type at the same rate. If 28 such typists require 28 minutes to type 28 lines, how many lines can 84 typists type in 84 minutes?**
+
+**Solution:**
+- 28 typists type 28 lines in 28 minutes, so each typist types 1 line in 28 minutes.
+- Work rate of 1 typist = \( \frac{1}{28} \) (line per minute)
+- Work rate of 84 typists = \( 84 \times \frac{1}{28} = 3 \) lines per minute
+- Total lines typed in 84 minutes = \( 3 \times 84 = 252 \) lines
+
+**Answer:** 84 typists can type **252 lines** in 84 minutes.
+
+---
+
+### **Question 34:**
+**A cistern has a leak that can empty it in 8 hours. An inlet pipe with a capacity of 60 litres per hour is turned on. When the leak and the inlet tap are turned on, the cistern filled with water is emptied in 12 hours. What is the capacity of the cistern?**
+
+**Solution:**
+- Let the capacity of the cistern be \( C \) litres.
+- Leak's emptying rate = \( \frac{C}{8} \) litres per hour
+- Inlet pipe's filling rate = 60 litres per hour
+- Net emptying rate when both are open:
+  \[
+  \frac{C}{8} - 60
+  \]
+- Time taken to empty the cistern = 12 hours
+- Total work done:
+  \[
+  \left( \frac{C}{8} - 60 \right) \times 12 = C
+  \]
+  \[
+  \frac{12C}{8} - 720 = C
+  \]
+  \[
+  \frac{3C}{2} - 720 = C
+  \]
+  \[
+  \frac{3C}{2} - C = 720
+  \]
+  \[
+  \frac{C}{2} = 720 \implies C = 1440
+  \]
+
+**Answer:** The capacity of the cistern is **1440 litres**.
+
+---
+
+### **Question 35:**
+**Amar can finish a piece of work alone in 12 days. Atul alone can finish the same work in 24 days. If both of them work together, then in how many days will the work be finished?**
+
+**Solution:**
+- Amar's work rate = \( \frac{1}{12} \) (work per day)
+- Atul's work rate = \( \frac{1}{24} \) (work per day)
+- Combined work rate = \( \frac{1}{12} + \frac{1}{24} = \frac{2 + 1}{24} = \frac{3}{24} = \frac{1}{8} \) (work per day)
+- Time taken together = \( \frac{1}{\frac{1}{8}} = 8 \) days
+
+**Answer:** Amar and Atul will finish the work together in **8 days**.
+
+---
+
+### **Question 36:**
+**Ram and Shyam together can finish a piece of work in 8 days. Both started the work together. After 3 days, Ram fell ill. Shyam alone finished the remaining work in 15 days. How many days would Ram take to finish the work alone?**
+
+**Solution:**
+- Let Ram's work rate be \( R \) and Shyam's work rate be \( S \).
+- Combined work rate = \( R + S = \frac{1}{8} \) (work per day)
+- Work done in 3 days together = \( 3 \times \frac{1}{8} = \frac{3}{8} \)
+- Remaining work = \( 1 - \frac{3}{8} = \frac{5}{8} \)
+- Shyam's work rate = \( S = \frac{\frac{5}{8}}{15} = \frac{5}{120} = \frac{1}{24} \) (work per day)
+- Ram's work rate = \( R = \frac{1}{8} - \frac{1}{24} = \frac{3 - 1}{24} = \frac{2}{24} = \frac{1}{12} \) (work per day)
+- Time taken by Ram alone = \( \frac{1}{\frac{1}{12}} = 12 \) days
+
+**Answer:** Ram alone will take **12 days** to finish the work.
+
+---
+
+### **Question 37:**
+**A and B can do a piece of work in 24 days. B and C can do the same work in 30 days. C and A can do the same work in 40 days. If all three of them work together, how long will they take to complete the work?**
+
+**Solution:**
+- Let the work rates of A, B, and C be \( A \), \( B \), and \( C \) respectively.
+- From the given information:
+  \[
+  A + B = \frac{1}{24}
+  \]
+  \[
+  B + C = \frac{1}{30}
+  \]
+  \[
+  C + A = \frac{1}{40}
+  \]
+- Adding all three equations:
+  \[
+  2(A + B + C) = \frac{1}{24} + \frac{1}{30} + \frac{1}{40} = \frac{5 + 4 + 3}{120} = \frac{12}{120} = \frac{1}{10}
+  \]
+  \[
+  A + B + C = \frac{1}{20}
+  \]
+- Time taken by A, B, and C together = \( \frac{1}{\frac{1}{20}} = 20 \) days
+
+**Answer:** A, B, and C will finish the work together in **20 days**.
+
+---
+
+### **Question 38:**
+**Working alone, A and B can complete a work in 10 and 15 days respectively. If they work together, in how many days will the work be completed? If they received Rs. 300 as payment, then what is A’s share?**
+
+**Solution:**
+- A's work rate = \( \frac{1}{10} \) (work per day)
+- B's work rate = \( \frac{1}{15} \) (work per day)
+- Combined work rate = \( \frac{1}{10} + \frac{1}{15} = \frac{3 + 2}{30} = \frac{5}{30} = \frac{1}{6} \) (work per day)
+- Time taken together = \( \frac{1}{\frac{1}{6}} = 6 \) days
+- A's share of work = \( \frac{1}{10} \times 6 = \frac{6}{10} = \frac{3}{5} \)
+- A's share of earnings = \( \frac{3}{5} \times 300 = 180 \)
+
+**Answer:** The work will be completed in **6 days**, and A’s share is **Rs. 180**.
+
+---
+
+### **Question 39:**
+**4 men of equal efficiencies can finish a piece of work by working 10 hours a day in 7 days. How many men will be required to finish the same work, if they work 3.5 hours a day and the work is to be completed in 10 days?**
+
+**Solution:**
+- Total work = \( 4 \text{ men} \times 10 \text{ hours/day} \times 7 \text{ days} = 280 \) man-hours
+- Let the number of men required be \( M \).
+- Total work done by \( M \) men in 10 days working 3.5 hours/day = \( M \times 3.5 \times 10 = 35M \)
+- Equating the work:
+  \[
+  35M = 280 \implies M = \frac{280}{35} = 8
+  \]
+
+**Answer:** **8 men** are required to finish the work.
+
+---
+
+### **Question 40:**
+**A certain number of men can finish a piece of work in 60 days. If there were 8 men more, the work could be finished in 10 days less. Find the original number of men.**
+
+**Solution:**
+- Let the original number of men be \( M \).
+- Total work = \( M \times 60 \) man-days
+- With 8 more men, the number of men becomes \( M + 8 \), and the work is completed in \( 60 - 10 = 50 \) days.
+- Total work = \( (M + 8) \times 50 \) man-days
+- Equating the work:
+  \[
+  M \times 60 = (M + 8) \times 50
+  \]
+  \[
+  60M = 50M + 400
+  \]
+  \[
+  10M = 400 \implies M = 40
+  \]
+
+**Answer:** The original number of men was **40**.
+
+---
+
+### **Question 41:**
+**If an inlet pipe can fill a tank in 4 hours and an outlet pipe can empty the full tank in 5 hours, then what is the portion of the tank filled in 1 hour if both the pipes are kept open?**
+
+**Solution:**
+- Inlet pipe's filling rate = \( \frac{1}{4} \) (tank per hour)
+- Outlet pipe's emptying rate = \( \frac{1}{5} \) (tank per hour)
+- Net filling rate when both pipes are open:
+  \[
+  \frac{1}{4} - \frac{1}{5} = \frac{5 - 4}{20} = \frac{1}{20}
+  \]
+
+**Answer:** The portion of the tank filled in 1 hour is **1/20 of the tank**.
+
+---
+
+### **Question 42:**
+**Two pipes A and B can fill a cistern in 12 and 15 hours respectively, while working alone. If both the pipes are opened together, then find the time taken to fill the cistern.**
+
+**Solution:**
+- Pipe A's filling rate = \( \frac{1}{12} \) (cistern per hour)
+- Pipe B's filling rate = \( \frac{1}{15} \) (cistern per hour)
+- Combined filling rate = \( \frac{1}{12} + \frac{1}{15} = \frac{5 + 4}{60} = \frac{9}{60} = \frac{3}{20} \) (cistern per hour)
+- Time taken to fill the cistern = \( \frac{1}{\frac{3}{20}} = \frac{20}{3} = 6 \frac{2}{3} \) hours
+
+**Answer:** The cistern will be filled in **6 hours and 40 minutes**.
+
+---
+
+### **Question 43:**
+**A cistern has a leak that can empty it in 4 hours. A pipe that admits 20 litres of water per hour into the cistern is turned on, and now the cistern is emptied in 6 hours. What is the capacity of the cistern?**
+
+**Solution:**
+- Let the capacity of the cistern be \( C \) litres.
+- Leak's emptying rate = \( \frac{C}{4} \) litres per hour
+- Inlet pipe's filling rate = 20 litres per hour
+- Net emptying rate when both are open:
+  \[
+  \frac{C}{4} - 20
+  \]
+- Time taken to empty the cistern = 6 hours
+- Total work done:
+  \[
+  \left( \frac{C}{4} - 20 \right) \times 6 = C
+  \]
+  \[
+  \frac{6C}{4} - 120 = C
+  \]
+  \[
+  \frac{3C}{2} - 120 = C
+  \]
+  \[
+  \frac{3C}{2} - C = 120
+  \]
+  \[
+  \frac{C}{2} = 120 \implies C = 240
+  \]
+
+**Answer:** The capacity of the cistern is **240 litres**.
+
+---
+
+### **Question 44:**
+**Two pipes A and B can fill a cistern in 12 and 16 minutes respectively. Both the pipes are opened together, but 2 minutes before the cistern is filled, pipe A is closed. How much time will the cistern take to fill?**
+
+**Solution:**
+- Let the total time taken to fill the cistern be \( t \) minutes.
+- Pipe A is open for \( t - 2 \) minutes.
+- Pipe B is open for \( t \) minutes.
+- Work done by pipe A = \( \frac{t - 2}{12} \)
+- Work done by pipe B = \( \frac{t}{16} \)
+- Total work done:
+  \[
+  \frac{t - 2}{12} + \frac{t}{16} = 1
+  \]
+  Multiply through by 48 to eliminate denominators:
+  \[
+  4(t - 2) + 3t = 48
+  \]
+  \[
+  4t - 8 + 3t = 48
+  \]
+  \[
+  7t - 8 = 48
+  \]
+  \[
+  7t = 56 \implies t = 8
+  \]
+
+**Answer:** The cistern will be filled in **8 minutes**.
+
+---
+
+### **Question 45:**
+**A and B working separately can finish a work in 12 and 18 days respectively. If they work together for 5 days, and then A goes away, in how many days will B complete the remaining work?**
+
+**Solution:**
+- A's work rate = \( \frac{1}{12} \) (work per day)
+- B's work rate = \( \frac{1}{18} \) (work per day)
+- Combined work rate = \( \frac{1}{12} + \frac{1}{18} = \frac{3 + 2}{36} = \frac{5}{36} \) (work per day)
+- Work done in 5 days together = \( 5 \times \frac{5}{36} = \frac{25}{36} \)
+- Remaining work = \( 1 - \frac{25}{36} = \frac{11}{36} \)
+- Time taken by B to complete the remaining work = \( \frac{\frac{11}{36}}{\frac{1}{18}} = \frac{11}{36} \times 18 = \frac{11}{2} = 5.5 \) days
+
+**Answer:** B will take **5.5 days** to complete the remaining work.
+
+---
+
+### **Question 46:**
+**A working alone can finish a job in 18 days, and B alone can do it in 15 days. If A starts the work alone and is joined by B after 7 days, then the time taken by them to complete the work is**
+
+**Solution:**
+- A's work rate = \( \frac{1}{18} \) (work per day)
+- B's work rate = \( \frac{1}{15} \) (work per day)
+- Work done by A in 7 days = \( 7 \times \frac{1}{18} = \frac{7}{18} \)
+- Remaining work = \( 1 - \frac{7}{18} = \frac{11}{18} \)
+- Combined work rate of A and B = \( \frac{1}{18} + \frac{1}{15} = \frac{5 + 6}{90} = \frac{11}{90} \) (work per day)
+- Time taken to complete the remaining work = \( \frac{\frac{11}{18}}{\frac{11}{90}} = \frac{11}{18} \times \frac{90}{11} = 5 \) days
+- Total time taken = 7 days (A alone) + 5 days (A and B together) = **12 days**
+
+**Answer:** The work will be completed in **12 days**.
+
+---
+
+### **Question 47:**
+**Anil and Raju can work together and finish a work in 10 days. They work together on it for 1 day, and then Raju quits. The rest of the work was done by Anil alone in 15 days. In how much time can Raju do the work alone?**
+
+**Solution:**
+- Let Anil's work rate be \( A \) and Raju's work rate be \( R \).
+- Combined work rate = \( A + R = \frac{1}{10} \) (work per day)
+- Work done in 1 day together = \( 1 \times \frac{1}{10} = \frac{1}{10} \)
+- Remaining work = \( 1 - \frac{1}{10} = \frac{9}{10} \)
+- Time taken by Anil to complete the remaining work = 15 days
+- Anil's work rate = \( \frac{\frac{9}{10}}{15} = \frac{9}{150} = \frac{3}{50} \) (work per day)
+- Raju's work rate = \( \frac{1}{10} - \frac{3}{50} = \frac{5 - 3}{50} = \frac{2}{50} = \frac{1}{25} \) (work per day)
+- Time taken by Raju alone = \( \frac{1}{\frac{1}{25}} = 25 \) days
+
+**Answer:** Raju can do the work alone in **25 days**.
+
+---
+
+### **Question 48:**
+**Ram can paint his house in 30 days, while Mohan can do the same work in 50 days. Mohan worked for 15 days. How many more days will be required by Ram to finish the remaining work?**
+
+**Solution:**
+- Ram's work rate = \( \frac{1}{30} \) (work per day)
+- Mohan's work rate = \( \frac{1}{50} \) (work per day)
+- Work done by Mohan in 15 days = \( 15 \times \frac{1}{50} = \frac{15}{50} = \frac{3}{10} \)
+- Remaining work = \( 1 - \frac{3}{10} = \frac{7}{10} \)
+- Time taken by Ram to complete the remaining work = \( \frac{\frac{7}{10}}{\frac{1}{30}} = \frac{7}{10} \times 30 = 21 \) days
+
+**Answer:** Ram will require **21 more days** to finish the remaining work.
+
+---
+
+### **Question 49:**
+**Gopal can make a model of a building in 10 days, and Ravi can break the model in 20 days. If they both perform their job together, then in how many days will Gopal be able to finish the work?**
+
+**Solution:**
+- Gopal's work rate = \( \frac{1}{10} \) (model per day)
+- Ravi's work rate = \( \frac{1}{20} \) (model per day)
+- Net work rate when both work together:
+  \[
+  \frac{1}{10} - \frac{1}{20} = \frac{2 - 1}{20} = \frac{1}{20} \text{ (model per day)}
+  \]
+- Time taken to finish the work = \( \frac{1}{\frac{1}{20}} = 20 \) days
+
+**Answer:** Gopal will be able to finish the work in **20 days**.
+
+---
+
+### **Question 50:**
+**Mahesh and Umesh can complete a work in 10 and 15 days respectively. Umesh starts the work and after 5 days, Mahesh joins him. In all, in how many days the work would be completed?**
+
+**Solution:**
+- Umesh's work rate = \( \frac{1}{15} \) (work per day)
+- Mahesh's work rate = \( \frac{1}{10} \) (work per day)
+- Work done by Umesh in 5 days = \( 5 \times \frac{1}{15} = \frac{5}{15} = \frac{1}{3} \)
+- Remaining work = \( 1 - \frac{1}{3} = \frac{2}{3} \)
+- Combined work rate of Mahesh and Umesh = \( \frac{1}{10} + \frac{1}{15} = \frac{3 + 2}{30} = \frac{5}{30} = \frac{1}{6} \) (work per day)
+- Time taken to complete the remaining work = \( \frac{\frac{2}{3}}{\frac{1}{6}} = \frac{2}{3} \times 6 = 4 \) days
+- Total time taken = 5 days (Umesh alone) + 4 days (Mahesh and Umesh together) = **9 days**
+
+**Answer:** The work will be completed in **9 days**.
+
+---
+
+### **Question 51:**
+**A can do a piece of work in 12 days. B is 60% more efficient than A. The number of days B would take to do the same piece of work is**
+
+**Solution:**
+- A's work rate = \( \frac{1}{12} \) (work per day)
+- B is 60% more efficient than A, so B's work rate = \( 1.6 \times \frac{1}{12} = \frac{1.6}{12} = \frac{16}{120} = \frac{2}{15} \) (work per day)
+- Time taken by B = \( \frac{1}{\frac{2}{15}} = \frac{15}{2} = 7.5 \) days
+
+**Answer:** B will take **7.5 days** to complete the work.
+
+---
+
+### **Question 52:**
+**A can complete a work in 6 days and B in 5 days. If they work together and receive Rs. 220 on completing a work, B’s share would be**
+
+**Solution:**
+- A's work rate = \( \frac{1}{6} \) (work per day)
+- B's work rate = \( \frac{1}{5} \) (work per day)
+- Combined work rate = \( \frac{1}{6} + \frac{1}{5} = \frac{5 + 6}{30} = \frac{11}{30} \) (work per day)
+- Time taken together = \( \frac{1}{\frac{11}{30}} = \frac{30}{11} \) days
+- B's share of work = \( \frac{1}{5} \times \frac{30}{11} = \frac{6}{11} \)
+- B's share of earnings = \( \frac{6}{11} \times 220 = 120 \)
+
+**Answer:** B’s share is **Rs. 120**.
+
+---
+
+### **Question 53:**
+**A alone can complete a job in 14 days. He is twice as fast as B, and B is twice as fast as C. If all of them work together, then in how many days would the job get completed?**
+
+**Solution:**
+- A's work rate = \( \frac{1}{14} \) (work per day)
+- A is twice as fast as B, so B's work rate = \( \frac{1}{28} \) (work per day)
+- B is twice as fast as C, so C's work rate = \( \frac{1}{56} \) (work per day)
+- Combined work rate = \( \frac{1}{14} + \frac{1}{28} + \frac{1}{56} = \frac{4 + 2 + 1}{56} = \frac{7}{56} = \frac{1}{8} \) (work per day)
+- Time taken together = \( \frac{1}{\frac{1}{8}} = 8 \) days
+
+**Answer:** The job will be completed in **8 days**.
+
+---
+
+### **Question 54:**
+**12 men can complete a piece of work in 9 days. After 3 days, 6 men joined to replace 2 men. How many days would be required to complete the remaining work?**
+
+**Solution:**
+- Total work = \( 12 \text{ men} \times 9 \text{ days} = 108 \) man-days
+- Work done in 3 days = \( 12 \times 3 = 36 \) man-days
+- Remaining work = \( 108 - 36 = 72 \) man-days
+- After 3 days, 6 men join and 2 men leave, so the new number of men = \( 12 - 2 + 6 = 16 \) men
+- Time taken to complete the remaining work = \( \frac{72}{16} = 4.5 \) days
+
+**Answer:** The remaining work will be completed in **4.5 days**.
+
+---
+
+### **Question 55:**
+**A, B, and C can do a piece of work in 20, 20, and 40 days respectively. They began the work together, but C left 2.5 days before the completion of work. In how many days would the work have been completed?**
+
+**Solution:**
+- Let the total time taken to complete the work be \( T \) days.
+- A and B work for \( T \) days, while C works for \( T - 2.5 \) days.
+- Total work done:
+  \[
+  \frac{T}{20} + \frac{T}{20} + \frac{T - 2.5}{40} = 1
+  \]
+  \[
+  \frac{2T}{20} + \frac{T - 2.5}{40} = 1
+  \]
+  \[
+  \frac{T}{10} + \frac{T - 2.5}{40} = 1
+  \]
+  Multiply through by 40 to eliminate denominators:
+  \[
+  4T + T - 2.5 = 40
+  \]
+  \[
+  5T - 2.5 = 40
+  \]
+  \[
+  5T = 42.5 \implies T = 8.5
+  \]
+
+**Answer:** The work would have been completed in **8.5 days**.
+
+---
+
+### **Question 56:**
+**A certain number of men can finish a piece of work in 100 days. If, however, there are 10 men less, it would take 10 days more for the work to finish. How many men were there initially?**
+
+**Solution:**
+- Let the initial number of men be \( M \).
+- Total work = \( M \times 100 \) man-days
+- With 10 men less, the number of men becomes \( M - 10 \), and the work is completed in \( 100 + 10 = 110 \) days.
+- Total work = \( (M - 10) \times 110 \) man-days
+- Equating the work:
+  \[
+  M \times 100 = (M - 10) \times 110
+  \]
+  \[
+  100M = 110M - 1100
+  \]
+  \[
+  -10M = -1100 \implies M = 110
+  \]
+
+**Answer:** There were initially **110 men**.
+
+---
+
+### **Question 57:**
+**Three pipes A, B, and C can fill a cistern in 15, 20, and 30 minutes respectively. They were all turned on at the same time. After 5 minutes, the first two pipes were turned off. In what time will the cistern be filled?**
+
+**Solution:**
+- Pipe A's filling rate = \( \frac{1}{15} \) (cistern per minute)
+- Pipe B's filling rate = \( \frac{1}{20} \) (cistern per minute)
+- Pipe C's filling rate = \( \frac{1}{30} \) (cistern per minute)
+- Combined filling rate of A, B, and C for the first 5 minutes:
+  \[
+  \frac{1}{15} + \frac{1}{20} + \frac{1}{30} = \frac{4 + 3 + 2}{60} = \frac{9}{60} = \frac{3}{20} \text{ (cistern per minute)}
+  \]
+- Work done in 5 minutes = \( 5 \times \frac{3}{20} = \frac{15}{20} = \frac{3}{4} \)
+- Remaining work = \( 1 - \frac{3}{4} = \frac{1}{4} \)
+- Time taken by Pipe C to fill the remaining \( \frac{1}{4} \) cistern = \( \frac{\frac{1}{4}}{\frac{1}{30}} = \frac{1}{4} \times 30 = 7.5 \) minutes
+- Total time taken = 5 minutes (all pipes) + 7.5 minutes (Pipe C alone) = **12.5 minutes**
+
+**Answer:** The cistern will be filled in **12.5 minutes**.
+
+---
+
+### **Question 58:**
+**Three taps A, B, and C can fill a cistern in 12, 15, and 40 minutes respectively. They are all turned on, but after 4 minutes, A and C are turned off. How many more minutes will B take to fill the cistern?**
+
+**Solution:**
+- Tap A's filling rate = \( \frac{1}{12} \) (cistern per minute)
+- Tap B's filling rate = \( \frac{1}{15} \) (cistern per minute)
+- Tap C's filling rate = \( \frac{1}{40} \) (cistern per minute)
+- Combined filling rate of A, B, and C for the first 4 minutes:
+  \[
+  \frac{1}{12} + \frac{1}{15} + \frac{1}{40} = \frac{10 + 8 + 3}{120} = \frac{21}{120} = \frac{7}{40} \text{ (cistern per minute)}
+  \]
+- Work done in 4 minutes = \( 4 \times \frac{7}{40} = \frac{28}{40} = \frac{7}{10} \)
+- Remaining work = \( 1 - \frac{7}{10} = \frac{3}{10} \)
+- Time taken by Tap B to fill the remaining \( \frac{3}{10} \) cistern = \( \frac{\frac{3}{10}}{\frac{1}{15}} = \frac{3}{10} \times 15 = 4.5 \) minutes
+
+**Answer:** Tap B will take **4.5 more minutes** to fill the cistern.
+
+---
+
+### **Question 59:**
+**Two girls Swathi and Priya can do a work in 8 hours and 12 hours respectively. If they work on alternate hours starting with Swathi at 10 a.m., when will the work be finished?**
+
+**Solution:**
+- Swathi's work rate = \( \frac{1}{8} \) (work per hour)
+- Priya's work rate = \( \frac{1}{12} \) (work per hour)
+- In the first hour (10 a.m. to 11 a.m.), Swathi works:
+  \[
+  \frac{1}{8}
+  \]
+- In the second hour (11 a.m. to 12 p.m.), Priya works:
+  \[
+  \frac{1}{12}
+  \]
+- Total work done in 2 hours = \( \frac{1}{8} + \frac{1}{12} = \frac{3 + 2}{24} = \frac{5}{24} \)
+- Remaining work = \( 1 - \frac{5}{24} = \frac{19}{24} \)
+- In the next 2 hours (12 p.m. to 2 p.m.), Swathi and Priya work again:
+  \[
+  \frac{5}{24}
+  \]
+- Total work done in 4 hours = \( \frac{5}{24} + \frac{5}{24} = \frac{10}{24} = \frac{5}{12} \)
+- Remaining work = \( 1 - \frac{5}{12} = \frac{7}{12} \)
+- In the next 2 hours (2 p.m. to 4 p.m.), Swathi and Priya work again:
+  \[
+  \frac{5}{24}
+  \]
+- Total work done in 6 hours = \( \frac{5}{12} + \frac{5}{24} = \frac{10 + 5}{24} = \frac{15}{24} = \frac{5}{8} \)
+- Remaining work = \( 1 - \frac{5}{8} = \frac{3}{8} \)
+- In the next 2 hours (4 p.m. to 6 p.m.), Swathi and Priya work again:
+  \[
+  \frac{5}{24}
+  \]
+- Total work done in 8 hours = \( \frac{5}{8} + \frac{5}{24} = \frac{15 + 5}{24} = \frac{20}{24} = \frac{5}{6} \)
+- Remaining work = \( 1 - \frac{5}{6} = \frac{1}{6} \)
+- In the next hour (6 p.m. to 7 p.m.), Swathi works:
+  \[
+  \frac{1}{8}
+  \]
+- Remaining work = \( \frac{1}{6} - \frac{1}{8} = \frac{4 - 3}{24} = \frac{1}{24} \)
+- In the next hour (7 p.m. to 8 p.m.), Priya works:
+  \[
+  \frac{1}{12}
+  \]
+- Total work done in 10 hours = \( \frac{5}{6} + \frac{1}{8} + \frac{1}{12} = \frac{20 + 3 + 2}{24} = \frac{25}{24} \)
+- Since the work is completed in 10 hours, the work will be finished at **8 p.m.**
+
+**Answer:** The work will be finished at **8 p.m.**
+
+---
+
+### **Question 60:**
+**In a school, one third of the maths syllabus of 10th class is completed in the first 6 months, with a one-hour period every day. If the whole syllabus has to be completed in 9 months, then what should be the duration of the period in the last 3 months?**
+
+**Solution:**
+- Let the total syllabus be 1 unit.
+- Work done in the first 6 months = \( \frac{1}{3} \)
+- Remaining work = \( 1 - \frac{1}{3} = \frac{2}{3} \)
+- Let the duration of the period in the last 3 months be \( H \) hours.
+- Work done in the last 3 months = \( H \times 90 \) (assuming 30 days per month)
+- Total work done:
+  \[
+  \frac{1}{3} + H \times 90 = 1
+  \]
+  \[
+  H \times 90 = \frac{2}{3} \implies H = \frac{2}{3 \times 90} = \frac{2}{270} = \frac{1}{135} \text{ hours}
+  \]
+  \[
+  H = \frac{1}{135} \times 60 = \frac{60}{135} = \frac{4}{9} \text{ minutes}
+  \]
+
+**Answer:** The duration of the period in the last 3 months should be **4/9 minutes**.
+
+---
+
+### **Question 61:**
+**10 men can dig a 25 feet deep well in 8 days. After 2 days, a fifth of the portion dug is filled due to rain. How many more days will the same men take to dig it completely?**
+
+**Solution:**
+- Total work = \( 10 \text{ men} \times 8 \text{ days} = 80 \) man-days
+- Work done in 2 days = \( 10 \times 2 = 20 \) man-days
+- Remaining work = \( 80 - 20 = 60 \) man-days
+- A fifth of the portion dug is filled due to rain, so the remaining work increases by \( \frac{1}{5} \times 20 = 4 \) man-days
+- Total remaining work = \( 60 + 4 = 64 \) man-days
+- Time taken to complete the remaining work = \( \frac{64}{10} = 6.4 \) days
+
+**Answer:** The same men will take **6.4 more days** to dig the well completely.
+
+---
+
+### **Question 62:**
+**A work is completed such that on the nth day from the start, n men join the workforce. If one man started the work on the first day and the work is completed in a total of 11 days, then find the number of days in which 11 men working together finish the work?**
+
+**Solution:**
+- Total work done in 11 days:
+  \[
+  1 + 2 + 3 + \dots + 11 = \frac{11 \times 12}{2} = 66 \text{ man-days}
+  \]
+- Let the number of days required by 11 men be \( D \).
+- Total work done by 11 men in \( D \) days = \( 11D \)
+- Equating the work:
+  \[
+  11D = 66 \implies D = 6
+  \]
+
+**Answer:** 11 men working together will finish the work in **6 days**.
+
+---
+
+### **Question 63:**
+**3 men or 5 women can do a job in 12 days. How long will 6 men and 5 women take to finish the job?**
+
+**Solution:**
+- Work rate of 3 men = \( \frac{1}{12} \) (job per day)
+- Work rate of 1 man = \( \frac{1}{36} \) (job per day)
+- Work rate of 5 women = \( \frac{1}{12} \) (job per day)
+- Work rate of 1 woman = \( \frac{1}{60} \) (job per day)
+- Combined work rate of 6 men and 5 women:
+  \[
+  6 \times \frac{1}{36} + 5 \times \frac{1}{60} = \frac{6}{36} + \frac{5}{60} = \frac{1}{6} + \frac{1}{12} = \frac{2 + 1}{12} = \frac{3}{12} = \frac{1}{4} \text{ (job per day)}
+  \]
+- Time taken = \( \frac{1}{\frac{1}{4}} = 4 \) days
+
+**Answer:** 6 men and 5 women will take **4 days** to finish the job.
+
+---
+
+### **Question 64:**
+**Three pipes A, B, and C can fill a tank in 12, 15, and 20 hours respectively. Find the time taken to fill the tank, if pipe C is kept open all the time and pipes A and B are opened for one hour each alternatively starting with A.**
+
+**Solution:**
+- Pipe A's filling rate = \( \frac{1}{12} \) (tank per hour)
+- Pipe B's filling rate = \( \frac{1}{15} \) (tank per hour)
+- Pipe C's filling rate = \( \frac{1}{20} \) (tank per hour)
+- In the first hour (A and C open):
+  \[
+  \frac{1}{12} + \frac{1}{20} = \frac{5 + 3}{60} = \frac{8}{60} = \frac{2}{15}
+  \]
+- In the second hour (B and C open):
+  \[
+  \frac{1}{15} + \frac{1}{20} = \frac{4 + 3}{60} = \frac{7}{60}
+  \]
+- Total work done in 2 hours = \( \frac{2}{15} + \frac{7}{60} = \frac{8 + 7}{60} = \frac{15}{60} = \frac{1}{4} \)
+- Remaining work = \( 1 - \frac{1}{4} = \frac{3}{4} \)
+- In the next 2 hours (A and C open, then B and C open):
+  \[
+  \frac{2}{15} + \frac{7}{60} = \frac{1}{4}
+  \]
+- Total work done in 4 hours = \( \frac{1}{4} + \frac{1}{4} = \frac{1}{2} \)
+- Remaining work = \( 1 - \frac{1}{2} = \frac{1}{2} \)
+- In the next 2 hours (A and C open, then B and C open):
+  \[
+  \frac{2}{15} + \frac{7}{60} = \frac{1}{4}
+  \]
+- Total work done in 6 hours = \( \frac{1}{2} + \frac{1}{4} = \frac{3}{4} \)
+- Remaining work = \( 1 - \frac{3}{4} = \frac{1}{4} \)
+- In the next hour (A and C open):
+  \[
+  \frac{2}{15}
+  \]
+- Remaining work = \( \frac{1}{4} - \frac{2}{15} = \frac{15 - 8}{60} = \frac{7}{60} \)
+- In the next hour (B and C open):
+  \[
+  \frac{7}{60}
+  \]
+- Total work done in 8 hours = \( \frac{3}{4} + \frac{2}{15} + \frac{7}{60} = \frac{45 + 8 + 7}{60} = \frac{60}{60} = 1 \)
+
+**Answer:** The tank will be filled in **8 hours**.
+
+---
+
+### **Question 65:**
+**A farmer has sufficient fodder to feed 150 cows for 16 days. How many more days would the fodder last if he had 30 cows less?**
+
+**Solution:**
+- Total fodder = \( 150 \text{ cows} \times 16 \text{ days} = 2400 \) cow-days
+- New number of cows = \( 150 - 30 = 120 \) cows
+- Let the number of days the fodder will last be \( D \).
+- Total fodder = \( 120 \times D \)
+- Equating the fodder:
+  \[
+  120D = 2400 \implies D = \frac{2400}{120} = 20
+  \]
+
+**Answer:** The fodder will last for **20 days**.
+
+---
+
+### **Question 66:**
+**15 men work for 21 days for 8 hours every day to complete a piece of work. In how many days of 6 hours each would 21 women be able to complete the same work (3 women do as much work as 2 men)?**
+
+**Solution:**
+- Total work = \( 15 \text{ men} \times 21 \text{ days} \times 8 \text{ hours} = 2520 \) man-hours
+- 3 women = 2 men, so 1 woman = \( \frac{2}{3} \) man
+- Work rate of 21 women = \( 21 \times \frac{2}{3} = 14 \) men
+- Let the number of days required be \( D \).
+- Total work done by 21 women in \( D \) days working 6 hours/day = \( 14 \times D \times 6 = 84D \) man-hours
+- Equating the work:
+  \[
+  84D = 2520 \implies D = \frac{2520}{84} = 30
+  \]
+
+**Answer:** 21 women will take **30 days** to complete the work.
+
+---
+
+### **Question 67:**
+**Three pipes with a uniform rate of flow fill a tank. The first two pipes operating simultaneously fill the tank in the same time during which the tank can be filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. Find the time required by the first pipe.**
+
+**Solution:**
+- Let the time taken by the first pipe to fill the tank be \( T \) hours.
+- Time taken by the second pipe = \( T - 5 \) hours
+- Time taken by the third pipe = \( T - 5 + 4 = T - 1 \) hours
+- Work rate of the first pipe = \( \frac{1}{T} \) (tank per hour)
+- Work rate of the second pipe = \( \frac{1}{T - 5} \) (tank per hour)
+- Work rate of the third pipe = \( \frac{1}{T - 1} \) (tank per hour)
+- Combined work rate of the first two pipes:
+  \[
+  \frac{1}{T} + \frac{1}{T - 5}
+  \]
+- Time taken by the first two pipes together = \( \frac{1}{\frac{1}{T} + \frac{1}{T - 5}} \)
+- According to the problem, this time is equal to the time taken by the third pipe alone:
+  \[
+  \frac{1}{\frac{1}{T} + \frac{1}{T - 5}} = T - 1
+  \]
+  \[
+  \frac{1}{\frac{T - 5 + T}{T(T - 5)}} = T - 1
+  \]
+  \[
+  \frac{T(T - 5)}{2T - 5} = T - 1
+  \]
+  \[
+  T(T - 5) = (T - 1)(2T - 5)
+  \]
+  \[
+  T^2 - 5T = 2T^2 - 5T - 2T + 5
+  \]
+  \[
+  T^2 - 5T = 2T^2 - 7T + 5
+  \]
+  \[
+  -T^2 + 2T - 5 = 0
+  \]
+  \[
+  T^2 - 2T + 5 = 0
+  \]
+  This quadratic equation has no real solutions, indicating a possible error in the problem statement or assumptions.
+
+**Answer:** The problem seems to have no valid solution based on the given conditions.
+
+---
+
+### **Question 68:**
+**A sum of money is sufficient to pay Sachin’s salary for 45 days and Kale’s salary for 60 days. For how many days will the sum of money be enough to pay the salaries of both?**
+
+**Solution:**
+- Let the total sum of money be 1 unit.
+- Sachin's daily salary = \( \frac{1}{45} \)
+- Kale's daily salary = \( \frac{1}{60} \)
+- Combined daily salary = \( \frac{1}{45} + \frac{1}{60} = \frac{4 + 3}{180} = \frac{7}{180} \)
+- Number of days the sum will last = \( \frac{1}{\frac{7}{180}} = \frac{180}{7} \approx 25.71 \) days
+
+**Answer:** The sum of money will be enough to pay both salaries for approximately **25.71 days**.
+
+---
+
+### **Question 69:**
+**Four men and three women can do a job in 6 days. When five men and six women work on the same job, the work gets completed in 4 days. How long will a woman alone take to do the job?**
+
+**Solution:**
+- Let the work rate of a man be \( M \) and a woman be \( W \).
+- From the first scenario:
+  \[
+  4M + 3W = \frac{1}{6}
+  \]
+- From the second scenario:
+  \[
+  5M + 6W = \frac{1}{4}
+  \]
+- Solving these two equations:
+  - Multiply the first equation by 2:
+    \[
+    8M + 6W = \frac{1}{3}
+    \]
+  - Subtract the second equation from this:
+    \[
+    8M + 6W - (5M + 6W) = \frac{1}{3} - \frac{1}{4}
+    \]
+    \[
+    3M = \frac{1}{12} \implies M = \frac{1}{36}
+    \]
+  - Substitute \( M \) back into the first equation:
+    \[
+    4 \times \frac{1}{36} + 3W = \frac{1}{6}
+    \]
+    \[
+    \frac{4}{36} + 3W = \frac{1}{6}
+    \]
+    \[
+    \frac{1}{9} + 3W = \frac{1}{6}
+    \]
+    \[
+    3W = \frac{1}{6} - \frac{1}{9} = \frac{3 - 2}{18} = \frac{1}{18}
+    \]
+    \[
+    W = \frac{1}{54}
+    \]
+- Time taken by a woman alone = \( \frac{1}{\frac{1}{54}} = 54 \) days
+
+**Answer:** A woman alone will take **54 days** to do the job.
+
+---
+
+### **Question 70:**
+**A cashier in a bank can count 100 notes of Rs. 100 denomination in one minute. A counting machine can do the same job in 20 seconds. If they work together, how long does it take to count 100 notes?**
+
+**Solution:**
+- Cashier's work rate = \( \frac{100}{60} = \frac{5}{3} \) notes per second
+- Machine's work rate = \( \frac{100}{20} = 5 \) notes per second
+- Combined work rate = \( \frac{5}{3} + 5 = \frac{5 + 15}{3} = \frac{20}{3} \) notes per second
+- Time taken to count 100 notes = \( \frac{100}{\frac{20}{3}} = \frac{100 \times 3}{20} = 15 \) seconds
+
+**Answer:** They will take **15 seconds** to count 100 notes.
+
+---
+
+### **Question 71:**
+**A and B together can do a piece of work in 12 days. B and C together can do the same in 15 days. If A is twice as fast as C, in how much time would B alone complete the work?**
+
+**Solution:**
+- Let the work rates of A, B, and C be \( A \), \( B \), and \( C \) respectively.
+- From the given information:
+  \[
+  A + B = \frac{1}{12}
+  \]
+  \[
+  B + C = \frac{1}{15}
+  \]
+  \[
+  A = 2C
+  \]
+- Substitute \( A = 2C \) into the first equation:
+  \[
+  2C + B = \frac{1}{12}
+  \]
+- From the second equation:
+  \[
+  B + C = \frac{1}{15}
+  \]
+- Subtract the second equation from the first:
+  \[
+  (2C + B) - (B + C) = \frac{1}{12} - \frac{1}{15}
+  \]
+  \[
+  C = \frac{5 - 4}{60} = \frac{1}{60}
+  \]
+- Substitute \( C = \frac{1}{60} \) back into the second equation:
+  \[
+  B + \frac{1}{60} = \frac{1}{15}
+  \]
+  \[
+  B = \frac{1}{15} - \frac{1}{60} = \frac{4 - 1}{60} = \frac{3}{60} = \frac{1}{20}
+  \]
+- Time taken by B alone = \( \frac{1}{\frac{1}{20}} = 20 \) days
+
+**Answer:** B alone will take **20 days** to complete the work.
+
+---
+
+### **Question 72:**
+**Suresh working alone can audit the company’s accounts in 12 days, while Prakash working alone takes 3 more days than Suresh to complete the same task. Suresh and Prakash undertook the job for Rs. 10,800. With the help of Vinod, they finished it in 5 days. How much is paid to Vinod?**
+
+**Solution:**
+- Suresh's work rate = \( \frac{1}{12} \) (work per day)
+- Prakash's work rate = \( \frac{1}{15} \) (work per day)
+- Combined work rate of Suresh and Prakash = \( \frac{1}{12} + \frac{1}{15} = \frac{5 + 4}{60} = \frac{9}{60} = \frac{3}{20} \) (work per day)
+- Total work done by Suresh and Prakash in 5 days = \( 5 \times \frac{3}{20} = \frac{15}{20} = \frac{3}{4} \)
+- Remaining work = \( 1 - \frac{3}{4} = \frac{1}{4} \)
+- Vinod's work rate = \( \frac{\frac{1}{4}}{5} = \frac{1}{20} \) (work per day)
+- Total work done by Vinod = \( 5 \times \frac{1}{20} = \frac{1}{4} \)
+- Vinod's share of earnings = \( \frac{1}{4} \times 10800 = 2700 \)
+
+**Answer:** Vinod is paid **Rs. 2700**.
+
+
